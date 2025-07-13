@@ -43,21 +43,17 @@
     <h2>➕ Agregar nuevo libro</h2>
     <form style="background-color: white; padding: 20px; border-radius: 10px; max-width: 600px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
       <label>Título:</label><br>
-      <input type="text" style="width: 100%; padding: 8px; margin-bottom: 10px;"><br>
-      
+      <input type="text" style="width: 100%; padding: 8px; margin-bottom: 10px;"><br>      
       <label>Autor:</label><br>
       <select style="width: 100%; padding: 8px; margin-bottom: 10px;">
-        <option>-- Seleccionar autor --</option>
+        <option>Woodley TK</option>
       </select><br>
-
       <label>Categoría:</label><br>
       <select style="width: 100%; padding: 8px; margin-bottom: 10px;">
         <option>-- Seleccionar categoría --</option>
       </select><br>
-
       <label>Año:</label><br>
       <input type="number" style="width: 100%; padding: 8px; margin-bottom: 15px;"><br>
-
       <button type="submit" style="background-color: #27ae60; color: white; padding: 10px 20px; border: none; border-radius: 6px;">Guardar libro</button>
     </form>
   </section>

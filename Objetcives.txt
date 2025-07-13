@@ -1,0 +1,17 @@
+1. 📚 Gestor de Biblioteca
+Descripción:
+Crea un sistema para administrar libros, autores y categorías.
+
+Modelo sugerido:
+
+Author: nombre, país.
+
+Book: título, año, author_id, category_id.
+
+Category: nombre.
+
+Funcionalidades:
+
+CRUD completo.
+
+Relaciones: uno-a-muchos (Author → Books) y muchos-a-uno (Books → Category).

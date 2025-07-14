@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "tk",
+    "password": "soytk",
+    "database": "my_local",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
